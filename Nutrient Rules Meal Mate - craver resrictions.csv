@@ -1,0 +1,11 @@
+condition,restrictions
+Coronary Artery Disease,"0.14% or less, less than 6% of calories from saturated fat, 5% of sugar or less"
+High Cholesterol,"less than 6% of calories from saturated fat, 5% of sugar or less"
+Hypertension,"0.14% or less, less than 6% of calories from saturated fat, 5% of sugar or less"
+Obesity,"less than 6% of calories from saturated fat, 5% of sugar or less"
+Type 2 Diabetes,"30% of carbs or less, less than 6% of calories from saturated fat, 5% of sugar or less"
+Vegetarian,"no meat, fish, poultry"
+No Dairy,"no dairy products including butter, milk, cheese, yogurt, cream, ice cream"
+Gluten free,"no gluten products including wheat, rye, barley, oats, spelt"
+Vegan,"no meat, fish, poultry, eggs, dairy, honey"
+Celiac,"no gluten products including wheat, rye, barley, oats, spelt"
